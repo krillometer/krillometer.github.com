@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": {"popupContent": "RRS James Clark Ross" }, "geometry": { "type": "Point", "coordinates": [-67.6, -63.8 ] } }
+]
+}

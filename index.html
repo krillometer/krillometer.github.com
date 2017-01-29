@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<title>JR16003</title>
+	<meta charset="utf-8" />
+
+	<link rel="stylesheet" href="leaflet/leaflet.css">
+
+
+	<style>
+         body {
+             padding: 0;
+             margin: 0;
+         }
+         html, body, #map {
+             height: 100%;
+             width: 100%;
+         }
+	</style>
+    </head>
+    <body>
+	<div id="map"></div>
+
+	<script src="leaflet/leaflet.js"></script>
+	<script src="leaflet.ajax.min.js"></script>
+	<script src="leaflet-gpx/gpx.js"></script>
+
+	<script>
+
+	 var mooringIcon = L.icon({
+	     iconUrl: 'mooring.png',
+
+	     iconSize:     [32, 32], // size of the icon
+	  //   iconAnchor:   [16, 16], // point of the icon which will correspond to marker's location
+	    // popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+	 });
+
+	 var shipIcon = L.icon({
+	     iconUrl: 'ship.png',
+
+	     iconSize:     [32, 32], // size of the icon
+	     //iconAnchor:   [16, 16], // point of the icon which will correspond to marker's location
+	     //popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+	 });
+
+	 
+	 function onEachFeature(feature, layer) {
+	     // does this feature have a property named popupContent?
+	     if (feature.properties && feature.properties.popupContent) {
+		 layer.bindPopup(feature.properties.popupContent);
+	     }
+	 }
+
+	 var url = 'NASA_BlueMarbleNextGeneration.jpg';
+	 var southWest = [-90, -180];
+	 var northEast = [90, 180];
+	 var bounds = new L.LatLngBounds(southWest, northEast);
+	 var nasaLayer = L.imageOverlay(url, bounds);
+
+	 /* var antarcticLayer = L.tileLayer.wms('http://jrlgis.jcr.nerc-bas.ac.uk/geoserver/add/wms', {
+	    layers: 'bamber_hillshade'
+	    });
+
+	    var gebcoLayer = L.tileLayer.wms('http://jrlgis.jcr.nerc-bas.ac.uk/geoserver/sggis/wms', {
+	    layers: 'gebco_bathymetry'
+	    });*/
+
+
+	 var xbtLayer = new L.GeoJSON.AJAX("xbt.geojson", {onEachFeature: onEachFeature});
+
+	 var geojsonMarkerOptions = {
+	     radius: 5,
+	     fillColor: "#ff0000",
+	     color: "#000",
+	     weight: 1,
+	     opacity: 1,
+	     fillOpacity: 0.8
+	 };
+
+	 var poiLayer = new L.GeoJSON.AJAX("poi.geojson", {onEachFeature: onEachFeature,
+							   pointToLayer: function (feature, latlng) {
+             return L.circleMarker(latlng, geojsonMarkerOptions);
+	 }
+	 });
+
+	 var jcrLayer = new L.GeoJSON.AJAX("jcr.geojson", {onEachFeature: onEachFeature,  pointToLayer: function (feature, latlng) {
+             return L.marker(latlng, {icon: shipIcon});
+	 }});
+
+
+	 var mooringsLayer = new L.GeoJSON.AJAX("moorings.geojson", {onEachFeature: onEachFeature, pointToLayer: function (feature, latlng) {
+             return L.marker(latlng, {icon: mooringIcon});
+	 }});
+
+	 var cruisePlanLayer = new L.GPX('WCB_route.gpx', {async: true});
+
+	 /* var baseMaps = {
+	    "NASA Blue Marble": nasaLayer,
+	    //	     "GEBCO Bathymetry": gebcoLayer,
+	    //	     "Antartica": antarcticLayer
+	    };*/
+
+	 var overlayMaps = {
+	     "Cruise Plan": cruisePlanLayer,
+	     "XBT": xbtLayer,
+	     "POI": poiLayer,
+	     "Moorings" : mooringsLayer,
+	     "James Clark Ross" : jcrLayer
+	 };
+
+	 
+
+	 var map = L.map('map', {crs: L.CRS.Simple }).setView([-55.19, -41.7], 3);
+
+	 nasaLayer.addTo(map);
+	 poiLayer.addTo(map);
+
+	 L.control.layers(null, overlayMaps).addTo(map);
+
+	 //logo position: bottomright, topright, topleft, bottomleft
+	 var logo = L.control({position: 'bottomright'});
+	 logo.onAdd = function(map){
+             var div = L.DomUtil.create('div', 'myclass');
+             div.innerHTML= "<img src='logo.png'/>";
+             return div;
+	 }
+	 logo.addTo(map);
+
+	</script>
+    </body>
+</html>

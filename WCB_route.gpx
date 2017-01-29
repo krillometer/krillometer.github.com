@@ -1,0 +1,810 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+  <wpt lat="-49.4993625784492" lon="-40.4974463101161">
+    <time>2016-12-11T12:02:26.35Z</time>
+    <name>Polar front</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-256</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-53.7999999999904" lon="-46">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>Polar front</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-55.9999999999944" lon="-29">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>Apex1</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-55.9999999999944" lon="-33">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>Apex2</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-55.9999999999944" lon="-39">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>Apex3</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-55.9999999999944" lon="-45">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>Apex4</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-51.9999999999854" lon="-33">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>Apex5</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-51.9999999999854" lon="-39">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>Apex6</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-51.9999999999854" lon="-45">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>Apex7</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-54.2699999999914" lon="-46">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>DR_1</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-53.9399999999906" lon="-45.99">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>DR_2</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-53.64999999999" lon="-45.92">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>DR_3</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-53.4199999999894" lon="-47.13">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>DR_4</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-53.3999999999894" lon="-44.18">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>DR_5</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-53.5799999999898" lon="-42.57">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>DR_6</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-53.9099999999906" lon="-41.18">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>DR_7</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-54.4199999999917" lon="-40.17">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>DR_8</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-52.8099999999878" lon="-40.11">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>P3</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-55.2599999999932" lon="-41.36">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>P2</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-53.7978999999903" lon="-37.9357">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>WCB mooring</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <wpt lat="-53.5999999999899" lon="-40.5">
+    <time>2016-12-10T19:00:01Z</time>
+    <name>FCO work</name>
+    <cmt />
+    <extensions>
+      <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+      <color>-16777216</color>
+    </extensions>
+  </wpt>
+  <rte>
+    <name>WCB_op2</name>
+    <extensions>
+      <T0Color>1</T0Color>
+      <Comment>
+      </Comment>
+    </extensions>
+    <rtept lat="-52.869999999988" lon="-52.96">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP1</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.6099999999899" lon="-49.54">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP2</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.6199999999899" lon="-47.8">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP3</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.1499999999911" lon="-44.52">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP4</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.2199999999912" lon="-44.53">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP5</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.7999999999904" lon="-47.11">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP6</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.8799999999905" lon="-47.11">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP7</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.2799999999914" lon="-44.56">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP8</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.3699999999916" lon="-44.56">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP9</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.9699999999907" lon="-47.11">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP10</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.0699999999909" lon="-47.11">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP11</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.3799999999916" lon="-44.98">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP12</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.2799999999914" lon="-47.11">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP13</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.1799999999912" lon="-47.12">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP14</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.2699999999914" lon="-46">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_1</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.2699999999914" lon="-46">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_1</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.9399999999906" lon="-45.99">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_2</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.9399999999906" lon="-45.99">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_2</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.64999999999" lon="-45.92">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_3</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.64999999999" lon="-45.92">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_3</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.4199999999894" lon="-47.13">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_4</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.4199999999894" lon="-47.13">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_4</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.2899999999891" lon="-45.6">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WP19</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.3999999999894" lon="-44.18">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_5</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.3999999999894" lon="-44.18">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_5</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.5799999999898" lon="-42.57">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_6</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.5799999999898" lon="-42.57">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_6</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.9099999999906" lon="-41.18">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_7</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.9099999999906" lon="-41.18">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_7</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.4199999999917" lon="-40.17">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_8</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.4199999999917" lon="-40.17">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>DR_8</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-52.8099999999878" lon="-40.11">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>P3</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-52.8099999999878" lon="-40.11">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>P3</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.3499999999893" lon="-39.6">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 1.1N</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.3499999999893" lon="-39.6">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 1.1N</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.0599999999909" lon="-39.39">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 1.1S</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.0199999999908" lon="-39.09">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 1.2S</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.3199999999892" lon="-39.3">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 1.2N</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.9899999999908" lon="-38.82">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 2.1S</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.9899999999908" lon="-38.82">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 2.1S</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.2899999999891" lon="-39.04">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 2.1N</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.2599999999891" lon="-38.75">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 2.2N</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.9599999999907" lon="-38.53">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 2.2S</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.219999999989" lon="-38.45">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 3.1 N</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.9299999999906" lon="-38.22">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 3.1S</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.8899999999905" lon="-37.91">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 3.2S</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.1899999999889" lon="-38.14">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 3.2N</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.8699999999905" lon="-37.73">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 4.1S</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.8699999999905" lon="-37.73">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 4.1S</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.1599999999888" lon="-37.96">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 4.1N</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.1483999999888" lon="-37.8322">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 4.2N</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.8499999999905" lon="-37.59">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 4.2S</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.1185698287899" lon="-36.4298539735795">
+      <time>2016-12-11T12:29:55.6269065Z</time>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.1599999999911" lon="-36.71">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>Stromness</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.1599999999911" lon="-36.71">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>Stromness</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-54.1185698287854" lon="-36.4298539735795">
+      <time>2016-12-11T12:30:01.0872188Z</time>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.7978999999903" lon="-37.9357">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB mooring</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.7978999999903" lon="-37.9357">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB mooring</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.219999999989" lon="-38.45">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 3.1 N</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.219999999989" lon="-38.45">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>WCB 3.1 N</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-52.8099999999878" lon="-40.11">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>P3</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-52.8099999999878" lon="-40.11">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>P3</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.5999999999899" lon="-40.5">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>FCO work</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.5999999999899" lon="-40.5">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>FCO work</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-55.2599999999932" lon="-41.36">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>P2</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-55.2599999999932" lon="-41.36">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>P2</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.7999999999904" lon="-46">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>Polar front</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+    <rtept lat="-53.7999999999904" lon="-46">
+      <time>2016-12-10T19:00:01Z</time>
+      <name>Polar front</name>
+      <extensions>
+        <MxTimeZeroSymbol>0</MxTimeZeroSymbol>
+        <color>-16777216</color>
+        <T0StepSide>Over</T0StepSide>
+      </extensions>
+    </rtept>
+  </rte>
+</gpx>
